@@ -1,3 +1,6 @@
+Verified Agent Identity
+
+update
 # Verified Agent Identity
 
 A decentralized identity management toolkit for AI agents using iden3 protocol on Billions Network.
